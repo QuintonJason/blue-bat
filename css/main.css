@@ -1,1 +1,16 @@
 /* Place CSS styles here */
+body {
+    /* background-color: rgb(10, 215, 140); */
+    /* per request */
+    background-image: url(../img/giz2.jpg   );
+    background:
+    /* top, transparent red, faked with gradient */
+    linear-gradient(
+      rgba(0, 0, 0, 0.45),
+      rgba(0, 0, 0, 0.45)
+    ), url(../img/giz2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+
+}
