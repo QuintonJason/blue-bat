@@ -1,10 +1,34 @@
 /* Place CSS styles here */
 body {
+  background-color: #40e0d0;
+  color: #171719;
+  font-size: 16px !important;
+}
 
+p {
+  font-size: 18px;
+}
+
+.featured-purple-bear a {
+  font-size: 20px;
+  color: #0d0d97;
+  text-decoration: none;
+}
+
+.featured-purple-bear a:hover {
+  text-decoration: underline;
 }
 
 .purple-bear-wrapper {
   background-color: lightgreen;
+}
+
+.purple-bear-item {
+  background-color: #e6e6fa;
+}
+
+.purple-bear-item p {
+  color: #ffff00;
 }
 
 h1 {
