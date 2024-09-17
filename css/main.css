@@ -2,11 +2,28 @@
 body {
   background-color: #40e0d0;
   color: #171719;
-  font-size: 16px !important;
+  font-family: "Merriweather", serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
 }
 
 p {
   font-size: 18px;
+}
+
+.featured-purple-bear h1 {
+  font-size: 70px;
+  text-align: center;
 }
 
 .featured-purple-bear a {
