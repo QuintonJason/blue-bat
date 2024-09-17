@@ -61,3 +61,11 @@ h1 {
 .purple-bear-wrapper h1 {
   color: #00c200;
 }
+
+.purple-bear-footer {
+  background-color: #868585;
+}
+
+.purple-bear-footer h1 {
+  font-size: 18px;
+}
